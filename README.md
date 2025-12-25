@@ -1,7 +1,7 @@
 # SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs
 
 <p align="center">
-  <img src="assets/2.png" alt="SEED Teaser" width="80%">
+  <img src="asset/2.png" alt="SEED Teaser" width="80%">
 </p>
 
 <p align="center">
@@ -77,3 +77,4 @@ If you find this work useful, please consider citing:
   doi={https://doi.org/10.48550/arXiv.2506.20167},
   year={2025}
 }
+
