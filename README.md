@@ -1,12 +1,10 @@
 # SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs
 
-<p align="center">
-  <img src="asset/2.png" alt="SEED Teaser" width="80%">
-</p>
+
 
 <p align="center">
   <strong>
-    Fengze Li,
+    <a href="https://uosfz.github.io/UOSFZ/">Fengze Li</a>,
     Yue Wang,
     <a href="https://YangleLiu.github.io/">Yangle Liu</a>,
     Ming Huang,
@@ -15,10 +13,23 @@
   </strong>
 </p>
 
-This repository contains the **official implementation** of the paper:
+<p align="center">
+  <em>
+    IEEE International Conference on Big Data and Artificial Intelligence (BDAI),  
+    Suzhou, China, 2025 · Oral Session
+  </em>
+</p>
 
-**SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs**  
-📄 [arXiv](https://arxiv.org/abs/2506.20167)
+<p align="center">
+  || <a href="https://arxiv.org/pdf/2506.20167">Paper</a>
+  || <a href="https://arxiv.org/abs/2506.20167">arXiv</a> ||
+</p>
+
+<p align="center">
+  <img src="asset/2.png" alt="SEED Teaser" width="80%">
+</p>
+
+
 
 ---
 
@@ -52,9 +63,7 @@ This decoupled design enables effective alignment between numerical patterns and
 
 ---
 
-<p align="center">
-  <img src="assets/seed_overview.png" alt="SEED Overview" width="70%">
-</p>
+
 
 ## Overview
 
@@ -64,6 +73,12 @@ This decoupled design enables effective alignment between numerical patterns and
 - Frozen LLM decoding for efficient and generalizable prediction  
 
 ---
+
+## TODO list:
+- [ ] update the arxiv link
+- [ ] release the preprocessed dataset and the pretrained model
+- [ ] release more preprocessed dataset and the pretrained model (coming soon)
+- [ ] release the codes and instructions of the project
 
 ## 📜 Citation
 
@@ -77,4 +92,5 @@ If you find this work useful, please consider citing:
   doi={https://doi.org/10.48550/arXiv.2506.20167},
   year={2025}
 }
+
 
