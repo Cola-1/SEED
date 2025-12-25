@@ -16,9 +16,11 @@
 <p align="center">
   <strong>
     IEEE International Conference on Big Data and Artificial Intelligence (BDAI),<br>
-    Suzhou, China, 2025 · <span style="color:#d73a49;">Oral Session</span>
+    Suzhou, China, 2025 · 
+    <span style="color:red; font-weight:700;">Oral Session</span>
   </strong>
 </p>
+
 
 
 <p align="center">
@@ -93,6 +95,7 @@ If you find this work useful, please consider citing:
   doi={https://doi.org/10.48550/arXiv.2506.20167},
   year={2025}
 }
+
 
 
 
