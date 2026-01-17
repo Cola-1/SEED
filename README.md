@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  || <a href="https://arxiv.org/pdf/2506.20167">Paper</a>
+  || <a href="https://ieeexplore.ieee.org/document/11325686">Paper</a>
   || <a href="https://arxiv.org/abs/2506.20167">arXiv</a> ||
 </p>
 
@@ -95,3 +95,4 @@ If you find this work useful, please consider citing:
   doi={https://doi.org/10.48550/arXiv.2506.20167},
   year={2025}
 }
+
